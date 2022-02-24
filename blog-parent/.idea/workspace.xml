@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="846a17fc-cedb-48e3-9d66-d0bc974f4830" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - blog@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="ms_article: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - blog@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="blog: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="ms_tag: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-mapper" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21iwydPmoBaVcLcPeH1DX4W3Wly" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Data\java_project\blog-parent\blog-api\src\main\resources\com\gaoxvnan\blog\dao\mapper" />
+      <recent name="D:\Data\java_project\blog-parent\blog-api\src\main\resources\com\gaoxvnan\blog\mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data\java_project\blog-parent\blog-admin\src\main\resources\static" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gaoxvnan.blog.vo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BlogApp">
+    <configuration name="LoginServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaoxvnan.blog.service.impl.LoginServiceImpl" />
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaoxvnan.blog.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-U" />
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="prod" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/blog-api" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="blog-api [-U,clean,package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-U" />
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="prod" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/blog-api" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="AdminApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaoxvnan.blog.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gaoxvnan.blog.admin.AdminApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaoxvnan.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gaoxvnan.blog.BlogApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginServiceImpl" />
+      <item itemvalue="Maven.blog-api [-U,clean,package]" />
+      <item itemvalue="Spring Boot.AdminApp" />
+      <item itemvalue="Spring Boot.BlogApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BlogApp" />
+        <item itemvalue="Spring Boot.AdminApp" />
+        <item itemvalue="Application.LoginServiceImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18237706" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="846a17fc-cedb-48e3-9d66-d0bc974f4830" name="Default Changelist" comment="" />
+      <created>1638437472463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638437472463</updated>
+      <workItem from="1638437475283" duration="1499000" />
+      <workItem from="1638761720253" duration="4032000" />
+      <workItem from="1638765774382" duration="868000" />
+      <workItem from="1638766686573" duration="162000" />
+      <workItem from="1638766864815" duration="261000" />
+      <workItem from="1638767147612" duration="21000" />
+      <workItem from="1638767183771" duration="9805000" />
+      <workItem from="1638881848245" duration="1029000" />
+      <workItem from="1638950805595" duration="3001000" />
+      <workItem from="1638953851211" duration="5559000" />
+      <workItem from="1638965203089" duration="5579000" />
+      <workItem from="1639032036052" duration="10328000" />
+      <workItem from="1639191666524" duration="7582000" />
+      <workItem from="1639205032063" duration="13976000" />
+      <workItem from="1639298448396" duration="87000" />
+      <workItem from="1639358815865" duration="6375000" />
+      <workItem from="1639365696217" duration="1168000" />
+      <workItem from="1639377849294" duration="6023000" />
+      <workItem from="1639384113757" duration="2771000" />
+      <workItem from="1639404104650" duration="130000" />
+      <workItem from="1639454342318" duration="8589000" />
+      <workItem from="1639474706074" duration="3340000" />
+      <workItem from="1639478099891" duration="5346000" />
+      <workItem from="1639556539608" duration="930000" />
+      <workItem from="1639557496858" duration="147000" />
+      <workItem from="1639557663993" duration="107000" />
+      <workItem from="1639557922839" duration="9270000" />
+      <workItem from="1639624275751" duration="2653000" />
+      <workItem from="1640945368039" duration="17000" />
+      <workItem from="1645685529931" duration="1691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="30" key="#HTTP_Proxy" timestamp="1638766641785">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="30" key="#HTTP_Proxy/0.0.1536.864@0.0.1536.864" timestamp="1638766641785" />
+    <state x="361" y="91" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645685844950">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" width="1089" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1645685844950" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1639480999326">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1639480999326" />
+    <state x="774" y="158" key="FileChooserDialogImpl" timestamp="1640945382214">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="774" y="158" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1640945382214" />
+    <state width="1196" height="223" key="GridCell.Tab.0.bottom" timestamp="1645687235814">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1196" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1645687235814" />
+    <state width="1196" height="223" key="GridCell.Tab.0.center" timestamp="1645687235814">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1196" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1645687235814" />
+    <state width="1196" height="223" key="GridCell.Tab.0.left" timestamp="1645687235813">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1196" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1645687235813" />
+    <state width="1196" height="223" key="GridCell.Tab.0.right" timestamp="1645687235814">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1196" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1645687235814" />
+    <state width="1196" height="223" key="GridCell.Tab.1.bottom" timestamp="1645687235814">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1196" height="223" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1645687235814" />
+    <state width="1196" height="223" key="GridCell.Tab.1.center" timestamp="1645687235814">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1196" height="223" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1645687235814" />
+    <state width="1196" height="223" key="GridCell.Tab.1.left" timestamp="1645687235814">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1196" height="223" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1645687235814" />
+    <state width="1196" height="223" key="GridCell.Tab.1.right" timestamp="1645687235814">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1196" height="223" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1645687235814" />
+    <state width="1493" height="277" key="GridCell.Tab.2.bottom" timestamp="1639046940398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1639046940398" />
+    <state width="1493" height="277" key="GridCell.Tab.2.center" timestamp="1639046940398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1639046940398" />
+    <state width="1493" height="277" key="GridCell.Tab.2.left" timestamp="1639046940398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1639046940398" />
+    <state width="1493" height="277" key="GridCell.Tab.2.right" timestamp="1639046940398">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1639046940398" />
+    <state x="270" y="14" key="SettingsEditor" timestamp="1639562730731">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="14" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1639562730731" />
+    <state x="178" y="9" key="new project wizard" timestamp="1639460737577">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="178" y="9" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1639460737577" />
+    <state x="511" y="60" key="refactoring.ChangeSignatureDialog" timestamp="1639212198444">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="511" y="60" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1639212198444" />
+    <state x="237" y="113" width="672" height="678" key="search.everywhere.popup" timestamp="1639483140246">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="237" y="113" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1639483140246" />
+  </component>
+</project>
